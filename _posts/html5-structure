@@ -1,0 +1,43 @@
+---
+author: Kublaj
+comments: true
+date: 2015-07-10 16:06:51+00:00
+layout: post
+redirect_from: /2013/07/html5-structure
+hero: Layout & Data in HTML5
+slug: html5-structure-layout
+title: Basic HTML5 structure
+wordpress_id: 56
+tags:
+- html
+- html5
+---
+
+# HTML5 - the semantic structure
+
+1. Document root
+2. Metadata & includes
+3. Body
+	1. Header
+	2. The Content
+	3. Footer
+4. The end of the line.
+
+## Alternative?
+
+### The markdown way:
+
+[![showdown-demo](http://blog.stackoverflow.com/wp-content/uploads/showdown-demo.png)](http://softwaremaniacs.org/playground/showdown-highlight/)
+
+[john gruber]: http://daringfireball.net/
+
+What do you think of this? **Would they work for you when posting editing?**
+
+> The overriding design goal for Markdown's
+> formatting syntax is to make it as readable
+> Markdown-formatted document should be
+> publishable as-is, as plain text, without
+> looking like it's been marked up with tags
+> or formatting instructions.
+
+## But: this is only The Content!
